@@ -1,0 +1,8 @@
+name: strong
+description: Annotations for Dart's strong mode analysis.
+version: 0.0.1
+author: Dart Dev Compiler team <dev-compiler@dartlang.org>
+homepage: https://github.com/dart-lang/strong
+
+environment:
+  sdk: ">=1.12.0-dev.1.1 <2.0.0"
